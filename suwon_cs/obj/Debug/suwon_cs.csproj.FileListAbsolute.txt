@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\bin\Debug\suwon_cs.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\bin\Debug\suwon_cs.exe
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\bin\Debug\suwon_cs.pdb
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\obj\Debug\suwon_cs.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\obj\Debug\suwon_cs.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\obj\Debug\suwon_cs.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\obj\Debug\suwon_cs.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\obj\Debug\suwon_cs.exe
+c:\users\pc\documents\visual studio 2015\Projects\suwon_cs\suwon_cs\obj\Debug\suwon_cs.pdb
+F:\Downloads\suwon_cs\suwon_cs\bin\Debug\suwon_cs.exe.config
+F:\Downloads\suwon_cs\suwon_cs\bin\Debug\suwon_cs.exe
+F:\Downloads\suwon_cs\suwon_cs\bin\Debug\suwon_cs.pdb
+F:\Downloads\suwon_cs\suwon_cs\obj\Debug\suwon_cs.csprojResolveAssemblyReference.cache
+F:\Downloads\suwon_cs\suwon_cs\obj\Debug\suwon_cs.Form1.resources
+F:\Downloads\suwon_cs\suwon_cs\obj\Debug\suwon_cs.Properties.Resources.resources
+F:\Downloads\suwon_cs\suwon_cs\obj\Debug\suwon_cs.csproj.GenerateResource.Cache
+F:\Downloads\suwon_cs\suwon_cs\obj\Debug\suwon_cs.csproj.CoreCompileInputs.cache
+F:\Downloads\suwon_cs\suwon_cs\obj\Debug\suwon_cs.exe
+F:\Downloads\suwon_cs\suwon_cs\obj\Debug\suwon_cs.pdb
